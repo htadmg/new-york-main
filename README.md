@@ -11,5 +11,3 @@ Este é um projeto simples que apresenta um conteúdo sobre a história de Nova 
 ## Como Visualizar
 
 Basta abrir o arquivo 
-
-Basta abrir o arquivo `
