@@ -1,30 +1,29 @@
 # História de Nova York
 
+## Descrição do Projeto
 Este é um projeto simples que apresenta um conteúdo sobre a história de Nova York em formato HTML.
 ![Logo da Minha Aplicação](https://img.elo7.com.br/product/original/2E18D68/papel-de-parede-auto-adesivo-new-york-city.jpg)
 
-## Conteúdo
+## Tecnologias Utilizadas
 
-- `index.html`: Este arquivo contém o código HTML para a página web.
-- `style.css`: Este arquivo contém os estilos CSS para a página.
+- **HTML**: Estrutura do conteúdo da página.
+- **CSS**: Estilização e layout da interface.
+  
+## Como Configurar o Projeto
 
-## Uso
+Para executar este projeto localmente, siga os passos abaixo:
 
-Para visualizar o site localmente, basta abrir o arquivo `index.html` em um navegador da web.
-
-## Recursos Utilizados
-
-- HTML5
-- CSS3
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novos recursos ou enviar um pull request.
-
-## Autor
-
-Agata Domingues
-
-## Licença
-
-Este projeto está sob a [licença MIT](https://opensource.org/licenses/MIT).
+1. **Clone o Repositório**
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/new-york-main.git
+```
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/new-york-main.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\new-york-main
+```
+2. **Abra o arquivo index.html no seu navegador**
